@@ -10,7 +10,6 @@ Toggle 'open' class on Bootstrap style [data-toggle] collapse elements when used
 
 ## Require (as appropriate):
 
-Include/Compile it however you wish. If using webpack, you might have something like:
+Include/Compile it however you wish. If using webpack, it could be as simple as:
 
-	require('/node_modules/data-toggle-class/js/data-toggle-class.js');
-	require('/bower_components/data-toggle-class/js/data-toggle-class.js');
+	require('data-toggle-class/js/data-toggle-class.js');

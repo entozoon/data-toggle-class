@@ -4,7 +4,7 @@
 $(function() {
 	$('[data-toggle]').click(function() {
 		var target = $(this).attr('data-target');
-		if ($(target).hasClass('in'))) {
+		if ($(target).hasClass('in')) {
 			$(this).removeClass('open');
 		} else {
 			$(this).addClass('open');

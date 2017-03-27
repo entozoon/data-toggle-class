@@ -1,6 +1,6 @@
 {
   "name": "data-toggle-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Toggle 'open' class for [data-toggle] elements when used",
   "main": "js/data-toggle-class.js",
   "repository": {

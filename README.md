@@ -8,8 +8,14 @@ Toggle 'open' class on Bootstrap style [data-toggle] collapse elements when used
 	npm install data-toggle-class
 	bower install data-toggle-class
 
-## Require (as appropriate):
+## Integrate
 
-Include/Compile it however you wish. If using webpack, it could be as simple as:
+Include/Compile it however you wish, for example:
+
+Webpack might be as simple as:
 
 	require('data-toggle-class/js/data-toggle-class.js');
+
+[lapis-compiler](https://github.com/entozoon/lapis-compiler):
+
+	#=include /node_modules/data-toggle-class/js/data-toggle-class.js

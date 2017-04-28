@@ -1,0 +1,10 @@
+{
+  "name": "data-toggle-class",
+  "description": "Toggle 'open' class for [data-toggle] elements when used",
+  "main": "js/data-toggle-class.js",
+  "authors": [
+    "MichaelCook <michae@michaelcook.tech>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/entozoon/data-toggle-class"
+}
